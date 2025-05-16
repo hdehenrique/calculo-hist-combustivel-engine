@@ -108,6 +108,7 @@ src/
 │           └── spark/                    # Configuração Spark
 ```
 
+
 # Observações
 
 - O projeto foi desenvolvido para análise de dados reais, mas pode ser adaptado para outros cenários de processamento de dados históricos.
