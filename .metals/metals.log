@@ -1,0 +1,45 @@
+2025.05.16 16:20:05 INFO  Started: Metals version 1.5.3 in folders 'C:\branch\calculo-hist-combustivel-engine' for client Visual Studio Code 1.100.2.
+2025.05.16 16:20:05 INFO  time: initialize in 0.12s
+2025.05.16 16:20:44 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:20:44 WARN  no build target for: C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala
+2025.05.16 16:20:45 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:22 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:22 WARN  no build target for: C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala
+2025.05.16 16:26:22 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:23 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:24 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:24 INFO  time: code lens generation in 1.51s
+2025.05.16 16:26:24 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:25 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:26 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:26 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:26 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:27 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+mai. 16, 2025 4:26:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2025.05.16 16:26:27 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:27 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:27 WARN  no build target for: C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala
+2025.05.16 16:26:27 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:27 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:27 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:29 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\apps\batch\CalcHistCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:30 WARN  no build target for: C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala
+2025.05.16 16:26:30 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:30 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:30 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:31 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:30 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:31 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:31 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:32 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:31 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:31 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:33 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:33 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:33 INFO  time: code lens generation in 1.87s
+2025.05.16 16:26:33 WARN  no build target for: C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala
+2025.05.16 16:26:33 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.16 16:26:34 INFO  time: code lens generation in 2.39s
+2025.05.16 16:26:34 INFO  time: code lens generation in 1.42s
+2025.05.16 16:26:34 INFO  no build target found for C:\branch\calculo-hist-combustivel-engine\src\main\scala\br\com\empresa\domain\DetalhesCombustivel.scala. Using presentation compiler with project's scala-library version: 3.3.6

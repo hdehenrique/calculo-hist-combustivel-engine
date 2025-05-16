@@ -1,3 +1,4 @@
+
 package br.com.empresa.domain
 
 import java.text.SimpleDateFormat
